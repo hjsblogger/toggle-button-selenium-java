@@ -44,7 +44,7 @@ Here is the screenshot of tests run on LambdaTest Grid:
 
 
 ## Need Assistance?
-Discuss your queries by writing to me at (himanshu.sheth@gmail.com)[himanshu.sheth@gmail.com] or you can ping me on the following social media sites:
+Discuss your queries by writing to me at [himanshu[dot]sheth[at]gmail](mailto:himanshu.sheth@gmail.com) or you can ping me on the following social media sites:
 
 <b>Twitter</b>: [@hjsblogger](https://www.twitter.com/hjsblogger)
 <br/>
