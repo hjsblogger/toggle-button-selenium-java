@@ -51,6 +51,3 @@ Discuss your queries by writing to me at [himanshu[dot]sheth[at]gmail](mailto:hi
 <b>LinkedIn</b>: [@hjsblogger](https://linkedin.com/in/hjsblogger)
 <br/>
 <b>Facebook</b>: [@hjsblogger](https://facebook.com/hjsblogger)
-
-
-
